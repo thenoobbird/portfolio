@@ -1,2 +1,2 @@
 # Portfolio_Website
-Crafted a responsive portfolio website that elegantly displays my projects and skills to potential employers and clients
+Crafted a responsive portfolio website that elegantly displays my projects and skills to potential employers and clients using HTML, CSS, JavaScript and React.
